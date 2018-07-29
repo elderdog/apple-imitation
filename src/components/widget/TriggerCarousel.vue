@@ -64,7 +64,7 @@
                     setTimeout(() => {
                         _this.buttonDisable = false;
                         _this.transEnable = true;
-                    }, 1);
+                    }, 100);
                 }, 800);
             }
         }
