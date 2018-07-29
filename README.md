@@ -1,6 +1,16 @@
-# apple
+# apple-imitaion
 
-> A Vue.js project
+- 基于`Vue`模仿苹果官网
+>  _An imitaion of Apple based on `Vue`_
+
+- 仅实现了`首页`和`Mac主页面`，其他页面链接均跳转至`404页面`
+> _Only `home page` and the main page of `Mac section` are finished, other links will navigate the current page to `404 page`_
+
+- 未实现除页面的`视觉效果`之外的其他功能，例如`真实的页面跳转`或苹果官网具备的`逻辑功能`
+> _Other features than the `visual effects` of the pages, such as `real page jumps` or `logic features` available on Apple's official website, are not implemented_
+
+- 所有页面均采用`响应式`布局，可适配主流的`移动端`至`PC端`屏幕
+> _All pages are in a `responsive` layout that can be friendly adapted to screens from 'mobile' to 'PC'_
 
 ## Build Setup
 
